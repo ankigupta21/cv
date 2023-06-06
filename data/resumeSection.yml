@@ -4,55 +4,97 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
+  I excel in agile go-to-market strategies, data analytics, psychology marketing, and scaling businesses. My expertise spans product design, digital innovation, campaign management, marketplace ads, negotiation, optimization, and brand management across all media channels.
+    
 tab2Name: Experiences
-tab1Target: education
+tab1Name: Education
 tab2Target: experience
+tab1Target: education
 
 education:
   - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      ### [Master's Program in Digital Marketing](https://success.simplilearn.com/036140e4-6667-4cc8-83e3-207962def572)
+        
+      ##### Online (Simplilearn)  
+     
+      - Digital Marketing Certified Associate    
+        
+      - Advanced Web analytics     
+        
+      - Advanced Pay Per Click (PPC)      
+        
+      - Advanced Social Media (SMM)     
+        
+      - Advanced Search Engine Optimization (SEO)   
+        
+      - Advanced Conversation Rate Optimization (CRO)    
+        
+      - Advanced Marketing Strategies   
+        
+      - Advanced Email Marketing    
+        
+      - Advanced Content Marketing     
+        
+      - Advanced Mobile Marketing    
+        
+    time: 2019-2021
   - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      ### Master's of Technology
+        
+      ##### Indian Institute of Technology, Roorkee
+        
+      Renewable Energy : Hydro Power, Solar Energy, Wind Energy
+    time: 2010-2012
   - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      ### Bachelor's of Engineering
+        
+      ##### Chattisgarh Swami Vivekananda Technical University [CSVTU]
+        
+      Electronics and Communication Engineering
+    time: 2006-2010
 
 experience:
   - content: >
-      #### Umbrella co. 
+      ### Senior Ecommerce Marketing Manager
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      ##### Sonova Group, Berlin, Germany
+
+      Portfolio: Ecommerce - Sennheiser & Healthcare Consumer Electronic | Global Market
+    time: Feb, 2022 - Feb, 2023
   - content: >
-      #### Aperture Science 
+      ### International Performance Marketing Manager
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      ##### TATA - Titan Company Pvt. Ltd.,India
+
+      Portfolio: Ecommerce- Lifestyle Watches & Wearables, Luxury Jewellery, Fashion | Global Market
+      Brands: Tanishq, Mia, Titan, Nebula, Fastrack, Sonata, Zoop, Taneira, Skinn, Titan Eye+
+    time: Feb 2019 - Jan 2022
   - content: >
-      #### ACME Inc. 
+      ### Key Account Marketing Manager
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      ##### Shoptimize (Marketing Agency), India
+
+      Portfolio: B2C, B2B, D2C; Ecommerce Lifestyle, Luxury Jewellery, Cosmetics, Fashion & Apparel, Food & beverages, FMCG, Real Estate | ASIA & Middle East Market
+    time: Mar 2018 - Feb 2019
   - content: >
-      #### LexCorp 
+      ### Digital Marketing Manager
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      ##### Wipro, India
+
+      Portfolio: B2C, B2B | Global Market
+    time: Apr 2017 - Mar 2018
+  - content: >
+      ### Marketing & Analytics Strategist
+
+      ##### Lucintel LLC
+    
+      Portfolio: B2B | Global Market
+    time: Jun 2016 - Mar 2017
+  - content: >
+      ### Digital Marketing Executive
+
+      ##### Sure Energy Systems, India
+
+    
+      Portfolio: Renewable Energy | ASIA Market
+    time: Jan 2014 - Jun 2016
