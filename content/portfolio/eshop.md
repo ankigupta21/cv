@@ -4,8 +4,7 @@ date: 2022-05-13T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: Development, UX Design
 client: Edward Furlong
-shortDescription: The goal of this project is to improve web traffic and hence more sales by applying a full marketing funnel approach. Planning promotions as per the profit margins and coordinating with internal and external stakeholders to execute the campaigns, optimizing and analyzing data. Analyzing the budgets against target vs achieved sales.
-Reporting the final KPIs and revenue to the stakeholders.
+shortDescription: The goal of this project is to improve web traffic and hence more sales by applying a full marketing funnel approach. Planning promotions as per the profit margins and coordinating with internal and external stakeholders to execute the campaigns, optimizing and analyzing data. Analyzing the budgets against target vs achieved sales. Reporting the final KPIs and revenue to the stakeholders.
 challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
