@@ -13,16 +13,16 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 3
+[[menu.main]]
 name = "Service"
 url = "#service"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Work"
 url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
 weight = 5
 [[menu.main]]
 name = "Skills"
@@ -76,17 +76,9 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
-weight = 1
-[[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/"
 weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
