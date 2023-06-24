@@ -9,9 +9,13 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: Problem Solving
-    percent: 80
+  - title: Go-to-market Strategy  
+    percent: 100
+  - title: Omni-channel Marketing
+    percent: 90
+  - title: Global business scaling
+    percent: 90
   - title: Project Leadership
     percent: 80
-  - title: Marketing Strategizing
-    percent: 90
+  - title: Product Design
+    percent: 80
