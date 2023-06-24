@@ -9,8 +9,7 @@ service:
   - content: >
       #### International Marketing
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Expertise in international marketing.
     image: images/service/ui-ux.svg
   - content: >
       #### Marketing Strategy
