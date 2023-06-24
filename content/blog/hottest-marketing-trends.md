@@ -1,5 +1,5 @@
 ---
-title: "Hottest E-commerce Marketing Trends"
+title: "Greatest E-commerce Marketing Trends"
 date: 2023-06-01T12:49:27+06:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
