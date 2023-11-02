@@ -6,10 +6,10 @@ title: >
 
   I excel in agile go-to-market strategies, data analytics, psychology marketing, and scaling businesses. My expertise spans product design, digital innovation, campaign management, marketplace ads, negotiation, optimization, and brand management across all media channels.
     
-tab2Name: Experiences
-tab1Name: Education
-tab2Target: experience
-tab1Target: education
+tab2Name: Education
+tab1Name: Experiences
+tab2Target: education
+tab1Target: experience
 
 education:
   - content: >
