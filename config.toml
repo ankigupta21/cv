@@ -13,15 +13,15 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Resume"
+name = "Experience"
 url = "#resume"
 weight = 3
 [[menu.main]]
-name = "Service"
-url = "#service"
+name = "Expertise"
+url = "#expertise"
 weight = 4
 [[menu.main]]
-name = "Work"
+name = "Projects"
 url = "#portfolio"
 weight = 5
 [[menu.main]]
@@ -37,23 +37,23 @@ name = "Contact"
 url = "#contact"
 weight = 8
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
+# # Sitemap Menu
+# [[menu.sitemap]]
+# name = "About me"
+# url = "about"
+# weight = 1
+# [[menu.sitemap]]
+# name = "Frequently Ask Question"
+# url = "#"
+# weight = 2
+# [[menu.sitemap]]
+# name = "Privacy & Policy"
+# url = "#"
+# weight = 3
+# [[menu.sitemap]]
+# name = "Latest Article"
+# url = "#"
+# weight = 4
 
 [params]
 blogPageURL = "blog"
