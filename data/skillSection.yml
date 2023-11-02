@@ -2,20 +2,20 @@
 enable: true
 topTitle: ""
 content: >
-  ## Why hire me to design your marketing needs?  
-    
-  With over a decade of experience in Global Marketing, Analytics and Project leadership, I am a data-driven and results-driven professional, worked with B2C, D2C, and B2B business segments in MNCs, media agencies, and fast-paced start-ups.
+  ## Why hire me to design your marketing needs? 
+
+  With over a decade of experience in Global Marketing, and Digital Sales, I am a result-oriented professional worked with various business segments. I excel in agile go-to-market strategies, data analytics, psychology marketing, and global expansion.
 
 image: images/skill/skill_image.jpg
 
 skill:
   - title: Go-to-market Strategy  
     percent: 100
-  - title: Omni-channel Marketing
+  - title: E-Commerce scaling
     percent: 90
   - title: Global business scaling
     percent: 90
   - title: Project Leadership
     percent: 80
-  - title: Product Design
-    percent: 80
+  - title: Ad Graphic Designing
+    percent: 60
