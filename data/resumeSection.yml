@@ -11,14 +11,16 @@ tab1Name: Experiences
 tab2Target: education
 tab1Target: experience
 
-education:
+experience:
   - content: >
       ### [Master's Program in Digital Marketing](https://success.simplilearn.com/036140e4-6667-4cc8-83e3-207962def572)
         
       ##### Online (Simplilearn)  
      
       - Digital Marketing Certified Associate    
+      
       - Advanced Web analytics     
+      
       - Advanced Pay Per Click (PPC)      
         
       - Advanced Social Media (SMM)     
@@ -51,7 +53,7 @@ education:
       Electronics and Communication Engineering
     time: 2006-2010
 
-experience:
+education:
   - content: >
       ### Senior Digital Marketing Manager
 
