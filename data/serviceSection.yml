@@ -4,35 +4,34 @@ topTitle: ""
 title: >
   ## Services
 
-  Global Marketing Services
-  
+  I am committed to leveraging my skills and experience to thrive in the AI era. I am excited to collaborate with like-minded professionals to make a meaningful impact in this exciting new frontier.
+service:
   - content: >
-      #### Global Marketing Strategy
+      #### International Marketing
 
-      Lorem Ipsum
-
+      Expertise in international marketing.
     image: images/service/ui-ux.svg
   - content: >
-      #### Social Media Marketing
+      #### Marketing Strategy
 
-      Lorem Ipsum
-      
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
   - content: >
-      #### Email Marketing
+      #### Marketing Automation
 
-      Lorem Ipsum
-
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/creative.svg
   - content: >
-      #### Market Research
+      #### Marketing Management
 
-      Lorem Ipsum
-
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/branding.svg
   - content: >
       #### Project Management
 
-      Lorem Ipsum
-
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
