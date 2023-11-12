@@ -7,22 +7,32 @@ title: >
   Global Marketing Services
   
   - content: >
-      Global Marketing Strategy
+      #### Global Marketing Strategy
+
+      Lorem Ipsum
 
     image: images/service/ui-ux.svg
   - content: >
       #### Social Media Marketing
+
+      Lorem Ipsum
       
     image: images/service/web.svg
   - content: >
       #### Email Marketing
 
+      Lorem Ipsum
+
     image: images/service/creative.svg
   - content: >
       #### Market Research
 
+      Lorem Ipsum
+
     image: images/service/branding.svg
   - content: >
       #### Project Management
+
+      Lorem Ipsum
 
     image: images/service/ui-ux.svg
