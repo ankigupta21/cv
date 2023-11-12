@@ -95,9 +95,9 @@ body {
 .navbar .main-navigation .nav-item .nav-link {
   color: #282f49;
   font-family: poppins, sans-serif;
-  padding: 0 15px;
+  padding: 0 55px;
   transition: all 0.3s ease;
-  font-weight: 500;
+  font-weight: 100;
 }
 .navbar .main-navigation .nav-item .nav-link:hover {
   color: #5d78ff;
