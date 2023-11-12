@@ -9,10 +9,6 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Experience"
-url = "#resume"
-weight = 3
-[[menu.main]]
 name = "Services"
 url = "#service"
 weight = 4
@@ -23,7 +19,7 @@ weight = 5
 [[menu.main]]
 name = "Skills"
 url = "#skills"
-weight = 6
+weight = 3
 [[menu.main]]
 name = "Contact"
 url = "#contact"
