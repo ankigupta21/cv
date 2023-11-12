@@ -61,9 +61,5 @@ logo = "images/site-navigation/logo.png"
 # Social icons
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/ankigupta21/"
 weight = 2
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
