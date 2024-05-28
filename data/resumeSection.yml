@@ -4,8 +4,10 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  I excel in agile go-to-market strategies, data analytics, psychology marketing, and scaling businesses. My expertise spans product design, digital innovation, campaign management, marketplace ads, negotiation, optimization, and brand management across all media channels.
-    
+  Excel in agile go-to-market strategies, data analytics, psychology marketing, and scaling businesses. 
+  My expertise spans ideating product design to enhance customer experience and leveraging all digital channels to cover the entire customer journey 
+  and to achieve the set business goals.
+      
 tab2Name: Education
 tab1Name: Experiences
 tab2Target: education
@@ -56,18 +58,21 @@ experience:
 education:
   - content: >
       ### Senior Digital Marketing Manager
+      
       ##### Trive, Germany
 
       Portfolio: Fin-tech(Stocks & ETFs) | EU Market
     time: 2023 - 2024
   - content: >
       ### Senior Ecommerce Marketing Manager
+      
       ##### Sonova Group, Germany
 
       Portfolio: Ecommerce - Sennheiser & Healthcare Consumer Electronic | Global Market
     time: 2022 - 2023
   - content: >
       ### International Performance Marketing Manager
+      
       ##### TATA - Titan Company Pvt. Ltd.,India
 
       Portfolio: Ecommerce- Lifestyle Watches & Wearables, Luxury Jewellery, Fashion | Global Market
@@ -75,18 +80,21 @@ education:
     time: 2019 - 2022
   - content: >
       ### Key Account Marketing Manager
+      
       ##### Marketing Agency, India
 
       Portfolio: B2C, B2B, D2C | Ecommerce Lifestyle, Luxury Jewellery, Cosmetics, Fashion & Apparel, Food & beverages, FMCG, Real Estate | ASIA & Middle East Market
     time: 2018 - 2019
   - content: >
       ### Digital Marketing Manager
+      
       ##### Wipro, India
 
       Portfolio: B2C, B2B | Global Market
     time: 2016 - 2018
   - content: >
       ### Marketing Executive
+      
       ##### Sure Solar Energy Systems, India
 
       Portfolio: Renewable Energy | ASIA Market
