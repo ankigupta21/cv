@@ -12,6 +12,11 @@ service:
 
       Expert in scaling brands across 18+ countries through agile Go-to-market strategies.
     image: images/service/ui-ux.svg
+      - content: >
+      #### Market Research
+
+      Competitor analysis and Market Research to target the right audience with the right content and to position brands well in the targeted regions.
+    image: images/service/branding.svg
   - content: >
       #### Social Media Marketing 
 
@@ -19,17 +24,16 @@ service:
     image: images/service/web.svg
     image: social-media-svgrepo-com.svg
     image: https://www.flaticon.com/free-icon/ads_4149786
+      - content: >
+      #### Google Ads | SEM
+
+     SEM Ads | Search Ads | Display Ads | Pmax Ads| Youtube Video Ads
+    image: social-media-svgrepo-com.svg
   - content: >
       #### Email Marketing
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Email Marketing allows us to personalized communication with our targeted audience and to build customer loyalty across the funnel.
     image: images/service/creative.svg
-  - content: >
-      #### Market Research
-
-      Competitor analysis and Market Research to target the right audience with the right content and to position brands well in the targeted regions.
-    image: images/service/branding.svg
   - content: >
       #### Project Management
 
