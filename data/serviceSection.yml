@@ -28,12 +28,10 @@ service:
   - content: >
       #### Market Research
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Competitor analysis and Market Research to target the right audience with the right content and to position brands well in the targeted regions.
     image: images/service/branding.svg
   - content: >
       #### Project Management
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Oversaw multiple projects simultaneously while collaborating with multiple stakeholders and delivering outstanding results.
     image: images/service/ui-ux.svg
