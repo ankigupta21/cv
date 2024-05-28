@@ -4,19 +4,21 @@ topTitle: ""
 title: >
   ## Services
 
-  I am committed to leveraging my skills and experience to thrive in the AI era. I am excited to collaborate with like-minded professionals to make a meaningful impact in this exciting new frontier.
+  I am committed to leveraging my skills and experience to thrive in the AI era. 
+  I am excited about new professional collaborations...
 service:
   - content: >
       #### Global Marketing Strategy
 
-      Expertise in international marketing.
+      Expert in scaling brands across 18+ countries through agile Go-to-market strategies.
     image: images/service/ui-ux.svg
   - content: >
-      #### Social Media Marketing
+      #### Social Media Marketing 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+     Meta Ads - Facebook and Instagram | LinkedIn Ads | TikTok Ads | Pinterest Ads
     image: images/service/web.svg
+    image: social-media-svgrepo-com.svg
+    image: https://www.flaticon.com/free-icon/ads_4149786
   - content: >
       #### Email Marketing
 
