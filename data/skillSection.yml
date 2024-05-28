@@ -2,7 +2,7 @@
 enable: true
 topTitle: ""
 content: >
-  ## 
+  ## Top Skills & Expertise
 
 skill:
   - title: Go-to-market Strategy  
@@ -13,5 +13,5 @@ skill:
     percent: 90
   - title: Project Leadership
     percent: 80
-  - title: Creative Strategy
+  - title: Content & Creative Strategy
     percent: 60
