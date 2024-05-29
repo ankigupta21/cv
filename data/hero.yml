@@ -3,7 +3,8 @@ enable: true
 topTitle: Hey, I am Ankita Gupta
 content: >
 
-  Sassy and Dynamic Global Marketer with a passion for leveraging the blend of creativity and innovative strategies to connect brands with their target audiences.
+  Sassy and Dynamic Global Marketer passionate about leveraging the blend of creativity and innovative strategies to connect brands with their target audiences.
+  
 
   With almost a decade of experience in marketing and data, I thrive on the challenges of developing comprehensive marketing strategies and delivering measurable results.
 
@@ -13,6 +14,6 @@ content: >
   
   - Market research and Creative Strategy <br />
     
-buttonName: Contact Me
+button name: Contact Me
 buttonURL: contact
 image: images/hero/2960351.jpg
