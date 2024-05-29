@@ -13,11 +13,6 @@ service:
       Expert in scaling brands across 18+ countries through agile Go-to-market strategies.
     image: images/service/ui-ux.svg
   - content: >
-      #### Market Research
-
-      Competitor analysis and market research are needed to target the right audience with the right content and position brands well in the targeted regions.
-    image: images/service/branding.svg
-  - content: >
       #### Social Media Marketing 
 
       Meta Ads - Facebook and Instagram | LinkedIn Ads | TikTok Ads | Pinterest Ads
@@ -26,14 +21,19 @@ service:
       #### Google Ads | SEM
 
       SEM Ads | Search Ads | Display Ads | Pmax Ads| Youtube Video Ads
-    image: social-media-svgrepo-com.svg
+    image: images/service/web.svg
   - content: >
       #### Email Marketing
 
-      Email marketing allows us to communicate with our targeted audience in a personalized way and build customer loyalty across the funnel.
+      Personalization and to draw customer loyalty.
     image: images/service/creative.svg
+  - content: >
+      #### Market Research
+
+      Competitor analysis and market research to target the audience with relevant content.
+    image: images/service/branding.svg
   - content: >
       #### Project Management
 
-      Oversaw multiple projects simultaneously while collaborating with multiple stakeholders and delivering outstanding results.
+      End-to-end Project management to deliver outstanding results.
     image: images/service/ui-ux.svg
