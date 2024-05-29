@@ -38,7 +38,7 @@ service:
 
       End-to-end Project management to deliver outstanding results
     image: images/service/ui-ux.svg
-- content: >
+  - content: >
       #### Conversion Rate Optimization
 
       Consumer experience | Content | A/B Testing
