@@ -4,7 +4,7 @@ topTitle: ""
 title: >
   ## Services
 
-  I am committed to leveraging my skills and experience to thrive in the AI era. 
+  I am committed to leveraging my skills and experience to thrive in the new AI era. 
   I am excited about new professional collaborations...
 service:
   - content: >
@@ -26,15 +26,20 @@ service:
   - content: >
       #### Email Marketing
 
-      Personalization and to draw customer loyalty.
+      Personalized content | Build Customer loyalty
     image: images/service/creative.svg
   - content: >
       #### Market Research
 
-      Competitor analysis and market research to target the audience with relevant content.
+      Competitor analysis and market research to target the audience with relevant content
     image: images/service/branding.svg
   - content: >
       #### Project Management
 
-      End-to-end Project management to deliver outstanding results.
+      End-to-end Project management to deliver outstanding results
+    image: images/service/ui-ux.svg
+- content: >
+      #### Conversion Rate Optimization
+
+      Consumer experience | Content | A/B Testing
     image: images/service/ui-ux.svg
