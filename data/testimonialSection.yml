@@ -1,7 +1,8 @@
 ---
 enable: true
 topTitle: Testimonials
-title: 
+title: >
+## What People Say About Me?
 
 testimonial:
   - name: S. Goel 
