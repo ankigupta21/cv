@@ -6,7 +6,7 @@ title = "Portfolio"
 # Main Menu
 [[menu.main]]
 name = "About"
-url = "#about"
+url = "#home"
 weight = 2
 [[menu.main]]
 name = "Services"
