@@ -49,7 +49,8 @@ contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
-fabformURL  = "https://webhook.site/73eee046-cce2-487f-9986-7658babc51bd"
+fabformURL  = "https://api.web3forms.com/submit"
+formAccessToken = "9397f243-a5ff-4c4a-ae40-d2653dea597e"
 googleAnalytics = "G-FH04SP1W10"
 logo = "images/site-navigation/logo.png"
 
