@@ -3,7 +3,7 @@ enable: true
 topTitle: My Skills
 content: >
   ## Why Hire Me ???
-image: images/skill/instagram_girl_laptop.png.jpg
+image: images/skill/instagram_girl_laptop.png
 
 skill:
   - title: Go-to-market Strategy  
