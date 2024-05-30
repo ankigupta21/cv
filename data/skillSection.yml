@@ -3,6 +3,7 @@ enable: true
 topTitle: My Skills
 content: >
   ## Why Hire Me ???
+image: images/skill/skill_image.jpg
 
 skill:
   - title: Go-to-market Strategy  
