@@ -1,6 +1,6 @@
 ---
 title: Enhancing Customer Experience and Acquisition | Titan Watches | SEA Region
-date: 2021
+date: 2021-11-15
 thumbnail: images/portfolio/titan edge.jpeg
 service: Lifestyle Fashion | E-commerce | Watches | Customer Experience and Acquisition
 client: Titan Watches - a TATA Brand
