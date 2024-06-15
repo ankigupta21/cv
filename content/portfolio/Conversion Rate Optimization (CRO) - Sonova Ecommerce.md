@@ -1,6 +1,6 @@
 ---
 title: Enhancing Customer Experience | Website CRO | Sonova 
-date: 2022-03-12T18:07:16.000+06:00
+date: 2023-03-15
 thumbnail: images/portfolio/SonovaSH-16x9-v5_DiB.jpg
 service: Website Conversion Rate Optimization through A/B test
 client: Sonova | Ecommerce | Audiocare Electronics 
