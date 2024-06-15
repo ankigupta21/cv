@@ -9,7 +9,7 @@ challenge: Converting their target audience for the World Hearing Day campaign. 
 solution: Initiated a comprehensive A/B testing strategy to optimise the landing page and improve the overall customer experience. Data collected from the CRM team indicated that many customers in this segment struggled to check out and had multiple questions about product choices. I proposed A/B Test - landing page variations,
 Landing Page A- Featured a CTA 'Buy Now'
 Landing Page B- Included a CTA 'Call Now to Get Support' where the support team would assist with queries and help place orders.
-This approach leveraged Google Search Ads and Social Media Ads to drive traffic to the landing pages. After gaining approval, collaborated closely with the product team to implement A/B Landing pages and integrate proactive customer support for this focused audience segment.
+This strategy leveraged Google Search Ads and Social Media Ads to drive traffic to the landing pages. After gaining approval, collaborated closely with the product team to implement A/B Landing pages and integrate proactive customer support for this focused audience segment.
 
 ---
 Result:
