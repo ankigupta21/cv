@@ -1,7 +1,7 @@
 ---
 title: Enhancing Customer Experience - Website CRO 
 date: 2022-03-12T18:07:16.000+06:00
-thumbnail: static/images/portfolio/SonovaSH-16x9-v5_DiB.jpg
+thumbnail: images/portfolio/SonovaSH-16x9-v5_DiB.jpg
 service: Website Conversion Rate Optimization through A/B test
 client: Sonova | Ecommerce | Audiocare Electronics 
 shortDescription: Sonova - Sonova is a pioneer in the German audiology market with over 70 years of expertise, providing  high-quality hearing aid solutions, audio healthcare electronics devices and Sennheiser electronic consumer goods.
