@@ -6,7 +6,7 @@ service: Mia by Tanishq - A TATA Product
 client: Mia Jewellery (Me In Action)
 shortDescription: Mia by Tanishq - A TATA Product - Minimalist Jewellery
 challenge: Google Ads
-solution: Search, Display, Shopping and Youtube Ads.
+solution: Search, Shopping and Youtube Ads.
 
 ---
 Some text here.
