@@ -1,5 +1,5 @@
 ---
-title: App Installs and Lead Generation (MQLs) - Trive Financials - DACH Region
+title: App Installs and Lead Generation (MQLs) | Trive Financials | DACH Region
 date: 2023 
 thumbnail: images/portfolio/Trive.png
 service: Trive Investment Platform  
