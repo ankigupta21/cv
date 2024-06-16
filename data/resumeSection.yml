@@ -2,11 +2,11 @@
 enable: true
 topTitle: My Resume
 title: >
-  ## My Expertises
+  ## My Expertise
 
   Excel in agile go-to-market strategies, data analytics, psychology marketing, and scaling businesses. 
   My expertise spans ideating product design to enhance customer experience and leveraging all digital channels to cover the entire customer journey 
-  and to achieve the set business goals.
+  and achieve the set business goals.
       
 tab2Name: Education
 tab1Name: Experiences
@@ -48,7 +48,7 @@ experience:
       Renewable Energy: Hydro Power, Solar Energy, Wind Energy
     time: 2010-2012
   - content: >
-      ### Bachelor's of Engineering
+      ### Bachelor of Engineering
         
       ##### Chattisgarh Swami Vivekananda Technical University [CSVTU]
         
@@ -64,18 +64,18 @@ education:
       Portfolio: Fin-tech(Stocks & ETFs) | EU Market
     time: 2023 - 2024
   - content: >
-      ### Senior Ecommerce Marketing Manager
+      ### Senior E-commerce Marketing Manager
       
       ##### Sonova Group, Germany
 
-      Portfolio: Ecommerce - Sennheiser & Healthcare Consumer Electronic | Global Market
+      Portfolio: E-commerce - Sennheiser & Healthcare Consumer Electronic | Global Market
     time: 2022 - 2023
   - content: >
       ### International Performance Marketing Manager
       
-      ##### TATA - Titan Company Pvt. Ltd.,India
+      ##### TATA - Titan Company Pvt. Ltd., India
 
-      Portfolio: Ecommerce- Lifestyle Watches & Wearables, Luxury Jewellery, Fashion | Global Market
+      Portfolio: E-commerce- Lifestyle Watches & Wearables, Luxury Jewellery, Fashion | Global Market
       Brands: Tanishq, Mia, Titan, Nebula, Fastrack, Sonata, Zoop, Taneira, Skinn, Titan Eye+
     time: 2019 - 2022
   - content: >
@@ -98,4 +98,4 @@ education:
       ##### Sure Solar Energy Systems, India
 
       Portfolio: Renewable Energy | ASIA Market
-    time: 2015 - 2016
+    time: 2015 - 2015
