@@ -14,6 +14,11 @@ service:
       
     image: images/service/ui-ux.svg
   - content: >
+      #### Marketplace Marketing
+      
+      Amazon PPC Ads | A+ Content | Marketplace Sponsored Ads
+    image: images/service/ui-ux.svg
+  - content: >
       #### Social Media Marketing 
 
       Meta Ads - Facebook and Instagram | LinkedIn Ads | TikTok Ads | Pinterest Ads
@@ -42,4 +47,9 @@ service:
       #### Conversion Rate Optimization
 
       Consumer experience | Content | A/B Testing
+    image: images/service/ui-ux.svg
+   - content: >
+      #### Influencer Marketing Campaigns
+
+      Influencer Marketing | Content | Engagement
     image: images/service/ui-ux.svg
