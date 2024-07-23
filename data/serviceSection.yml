@@ -16,7 +16,7 @@ service:
   - content: >
       #### Marketplace Marketing
       
-      Amazon PPC Ads | A-Plus Content | Marketplace Sponsored Ads
+      Amazon PPC Ads | A+ Content | Marketplace Sponsored Ads
       
     image: images/service/ui-ux.svg
   - content: >
@@ -49,7 +49,7 @@ service:
 
       Consumer experience | Content | A/B Testing
     image: images/service/ui-ux.svg
-   - content: >
+  - content: >
       #### Influencer Marketing Campaigns
 
       Influencer Marketing | Content | Engagement
