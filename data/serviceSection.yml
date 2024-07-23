@@ -16,7 +16,8 @@ service:
   - content: >
       #### Marketplace Marketing
       
-      Amazon PPC Ads | A+ Content | Marketplace Sponsored Ads
+      Amazon PPC Ads | A-Plus Content | Marketplace Sponsored Ads
+      
     image: images/service/ui-ux.svg
   - content: >
       #### Social Media Marketing 
