@@ -24,7 +24,7 @@
 					</div>
 					<div class="text-light footer__cta_content">
 						<span>Contact me</span>
-						<h2 class="mb-0">Let’s Start a Project</h2>
+						<h2 class="mb-0">Let's Start a Project</h2>
 					</div>
 					<div class="footer__cta_action">
 						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">Get in
@@ -67,3 +67,7 @@
 <script src="{{ $formhandler.Permalink }}"></script> -->
 {{ $script := resources.Get "js/script.js" | minify }}
 <script src="{{ $script.Permalink }}"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+</body>
+</html>

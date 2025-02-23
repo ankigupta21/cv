@@ -1,0 +1,28 @@
+<div class="swiper" style="height: 500px;">
+  <div class="swiper-wrapper">
+    {{ range .Page.Params.carousel_images }}
+    <div class="swiper-slide">
+      <img src="{{ . }}" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    {{ end }}
+  </div>
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const swiper = new Swiper('.swiper', {
+    loop: true,
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  });
+});
+</script> 
