@@ -1,7 +1,7 @@
 ---
 title: Enhancing Customer Experience and Acquisition | Titan Watches | SEA Region
 date: 2021-11-15
-thumbnail: images/portfolio/titan watches.png
+thumbnail: images/portfolio/titan/titan watches.png
 service: Lifestyle | E-commerce | Customer Experience and Acquisition
 client: Titan Watches - a TATA Brand
 shortDescription: Titan Company Limited - a TATA Company known for manufacturing lifestyle fashion goods - watches, wearables and accessories, website and marketplace brand pages in the Southeast Asian (SEA) market.

@@ -1,7 +1,7 @@
 ---
 title: App Installs and Lead Generation (MQLs) | Trive Financials | DACH Region
 date: 2023-11-01 
-thumbnail: images/portfolio/Trive.png
+thumbnail: images/portfolio/trive/Trive.png
 service: Trive Investment Platform  
 client: Trive Investment Platform - DACH Region
 shortDescription: Trive is a comprehensive investment platform under Trive Financial Holding, which offers a wide range of financial services including investment, credit, banking, wealth management, and insurance on a global scale.
