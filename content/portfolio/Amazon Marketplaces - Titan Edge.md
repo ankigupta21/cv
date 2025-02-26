@@ -5,9 +5,9 @@ thumbnail: images/portfolio/titan/titan edge.jpeg
 service: Titan Edge - World's first slimmest watch
 shortDescription: Titan Edge - World's first slimmest watch
 carousel_images:
-  - "/images/portfolio/project1/slide1.jpg"
-  - "/images/portfolio/project1/slide2.jpg"
-  - "/images/portfolio/project1/slide3.jpg"
+  - "images/portfolio/amazon_marketplaces/slide1.jpg"
+  - "images/portfolio/amazon_marketplaces/slide2.jpg"
+  - "images/portfolio/amazon_marketplaces/slide3.jpg"
 ---
 
 
