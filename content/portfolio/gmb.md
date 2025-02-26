@@ -8,9 +8,9 @@ shortDescription: about the brand.
 challenge: challenge - Store engagement | Ratings
 solution: strategy
 carousel_images:
-  - "/images/portfolio/project1/slide1.jpg"
-  - "/images/portfolio/project1/slide2.jpg"
-  - "/images/portfolio/project1/slide3.jpg"
+  - "images/portfolio/gmb/slide1.jpg"
+  - "images/portfolio/gmb/slide2.jpg"
+  - "images/portfolio/gmb/slide3.jpg"
 ---
 text here.
 Result:
