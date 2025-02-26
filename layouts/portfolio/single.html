@@ -32,33 +32,37 @@
         </p>
         <div class="case-details-info">
           <div class="case-details-info-item">
-            <h5 class="text-light">Brand</h5>
+            <h5 class="text-dark">Brand</h5>
             <p>{{ .Params.client }}</p>
           </div>
           <div class="case-details-info-item">
-            <h5>Service</h5>
+            <h5 class="text-dark">Service</h5>
             <p>{{ .Params.service }}</p>
           </div>
           <div class="case-details-info-item">
-            <h5>Date</h5>
+            <h5 class="text-dark">Date</h5>
             <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
           </div>
         </div>
         <div class="row mb-5">
           <div class="col-lg-6">
             <div class="case-details-service">
+              {{ if .Params.challenge }}
               <h3>Challenge</h3>
               <p>
                 {{ .Params.challenge }}
               </p>
+              {{ end }}
             </div>
           </div>
           <div class="col-lg-6">
             <div class="case-details-service">
+              {{ if .Params.solution }}
               <h3>Solution</h3>
               <p>
                 {{ .Params.solution }}
               </p>
+              {{ end }}
             </div>
           </div>
         </div>
@@ -129,5 +133,10 @@
   </div>
 </section>
 
+<style>
+.case-details-info {
+    background-color: #eedbbf;  /* Change to any color you want */
+}
+</style>
 
 {{ end }}

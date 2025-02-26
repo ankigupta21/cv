@@ -7,8 +7,14 @@ client: Titan
 shortDescription: about the brand.
 challenge: challenge - Store engagement | Ratings
 solution: strategy
-
+carousel_images:
+  - "/images/portfolio/project1/slide1.jpg"
+  - "/images/portfolio/project1/slide2.jpg"
+  - "/images/portfolio/project1/slide3.jpg"
 ---
 text here.
 Result:
+
+{{< simple-carousel >}} 
+
 Engagement
